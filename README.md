@@ -3,9 +3,6 @@ my exam
 
 ## Dayil Naanma Samuel
 
-- kherwhfwi\
-- hehfei
-
 Items | Descriptions | Students |
 --------------------------------
 Exam | To pass | Naanma |
